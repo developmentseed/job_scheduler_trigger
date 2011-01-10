@@ -1,5 +1,3 @@
-$Id: README.txt, jreyero Exp $
-
 Drupal Module: Job Scheduler Trigger
 ====================================
 Extension for Job Scheduler to create timed periodic triggers.
