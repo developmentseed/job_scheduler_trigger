@@ -78,7 +78,6 @@ function job_scheduler_trigger_cron_job_scheduler_info() {
   if (!empty($jobs)) {
     $scheduler['job_scheduler_trigger'] = array(
       'worker callback' => 'job_scheduler_trigger_worker',
-      'auto' => TRUE,
       'jobs' => $jobs,
     );
     return $scheduler;
