@@ -1,5 +1,4 @@
 <?php
-// $Id: job_scheduler.install,v jreyero Exp $
 
 /**
  * Implementation of hook_schema().

@@ -1,5 +1,4 @@
 <?php
-// $Id: job_scheduler.module,v 1.6 2010/09/28 22:20:42 jreyero Exp $
 
 /**
  * @file
